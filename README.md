@@ -102,11 +102,6 @@ while True:
     except socket.timeout:
         print("No ACK received, retransmitting...")
         continue
-
-
-
-
-
 ```
 ## Output :
 <img width="1240" height="337" alt="image" src="https://github.com/user-attachments/assets/cfb44ef7-473f-4d91-86c6-39e949dad0ca" />
